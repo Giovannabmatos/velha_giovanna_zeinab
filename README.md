@@ -1,6 +1,7 @@
 # Jogo da velha: Giovanna e Zeinab
 Jogo da velha feito por jovens
-
+## Link do Site GitHub
+https://giovannabmatos.github.io/velha_giovanna_zeinab/
 ## Tecnologias utilizadas
 - **HTML**: estrutura do site
 - __CSS__: estilização do site
