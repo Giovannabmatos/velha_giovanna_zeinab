@@ -23,7 +23,7 @@ const tic_tac_toe = {
                     ],
 
     // FUNCTIONS
-    init(container) {
+    init: function(container) {
         this.container_element = container;
     },
 
